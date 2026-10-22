@@ -1,0 +1,6 @@
+{
+  "name": "App Datena - WhatsTransmissão",
+  "description": "Loja oficial de aplicativos App Datena. Baixe o WhatsTransmissão para automação de mensagens em massa no WhatsApp e atendimento simplificado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
